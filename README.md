@@ -1,5 +1,5 @@
 # cthweeb
 
-## Install Git
-Download Git di git-scm.com '<p>'
+## Test
+Test '<p>'
 ![Gambar 1](screenshot/ss1.png)
